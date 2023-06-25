@@ -1,0 +1,28 @@
+.home-page {
+    padding: 20px;
+  }
+  
+  .shoe-card {
+    margin-bottom: 20px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+   
+  }
+  .size-option {
+    margin-right: 20px;
+  }
+  .card-button {
+    /* Remove link-like appearance */
+    background-color: transparent;
+    border: none;
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+    /* Add additional styling as needed */
+  }
+  
+  
